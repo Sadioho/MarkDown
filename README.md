@@ -31,6 +31,10 @@ _Chữ in nghiêng_
 <!-- Link -->
 [Sử dụng link](http://example.com)
 
+<!-- Link tham khao -->
+
+* **[Link Tham Khao MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)**
+
 <!-- Images -->
 
 ![Image](https://cdn.iconscout.com/icon/premium/png-512-thumb/markdown-6-570527.png)

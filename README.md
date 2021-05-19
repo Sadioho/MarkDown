@@ -519,4 +519,4 @@ _Chữ in nghiêng_
         </fieldset>
         ```
         
-        <img src="https://developers.google.com/web/fundamentals/performance/critical-rendering-path/images/render-tree-construction.png" width=400 >
+        <img src="https://developers.google.com/web/fundamentals/performance/critical-rendering-path/images/render-tree-construction.png" style="width:50%" >
